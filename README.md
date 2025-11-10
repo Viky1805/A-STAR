@@ -119,6 +119,8 @@ G 0 <br>
 <hr>
 <h2>Sample Output</h2>
 
+<img width="930" height="392" alt="image" src="https://github.com/user-attachments/assets/413a3311-bd44-43e7-afdf-4f1563474f20" />
+
 
 <hr>
 Path found: ['A', 'E', 'D', 'G']
